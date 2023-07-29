@@ -25,7 +25,9 @@ const Layout = () => {
                   key={data.name}
                   className='link-sosial-media flex justify-center items-center gap-1'
                 >
-                  <a href={data.path}>{data.name}</a>
+                  <a href={data.path} target='blank'>
+                    {data.name}
+                  </a>
                   <p className=''>/</p>
                 </li>
               );

@@ -37,6 +37,7 @@ const WebProjectDetail = () => {
           </h1>
           <a
             href={dataProject.link}
+            target='blank'
             className={
               dataProject.role === 'UI/UX Designer'
                 ? 'hidden'
