@@ -151,7 +151,7 @@ export const projectsFE = [
     role: 'Frontend Developer',
     description:
       "Dausagi is a garbage bank platform that I created with my team. This project is the final assignment in the Studi Independen Bersertifikat Kampus Mereka program. We created this web application with the hope of reducing waste where it shouldn't be. This application can be used by people who want to store waste and get feedback/benefits from the waste exchange process provided.",
-    client: 'Capstone Projects SIB x dicoding',
+    client: 'PT Len Industri (Persero)',
     year: '2023',
     goals: [
       'As one of the tasks of the Independent Campus Certified Internship activity',
