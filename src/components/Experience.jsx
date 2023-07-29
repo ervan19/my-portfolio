@@ -10,7 +10,10 @@ const Experience = () => {
   }, []);
   return (
     <div className='w-full min-h-screen px-4 md:px-24 flex flex-col justify-start items-start gap-14'>
-      <h1 className='text-4xl text-primary font-bold place-self-center'>
+      <h1
+        className='text-4xl text-primary font-bold place-self-center'
+        data-aos='zoom-in'
+      >
         Experience
       </h1>
       <div className='w-full py-4 dark:bg-white/5 bg-dark/5 rounded-3xl grid place-items-center'>

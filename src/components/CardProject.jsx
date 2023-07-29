@@ -9,6 +9,7 @@ const CardProject = (data) => {
         <div
           key={item.id}
           className='w-full rounded-md overflow-hidden relative shadow-md group cursor-pointer'
+          data-aos='zoom-in'
         >
           <img
             src={item.image}

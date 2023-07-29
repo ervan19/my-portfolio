@@ -12,6 +12,7 @@ const Carousel = () => {
       className='relative'
       data-te-carousel-init
       data-te-carousel-slide
+      data-aos='zoom-in'
     >
       <div
         className='absolute -bottom-12 left-0 right-0 z-[2] mx-[15%] mb-4 flex list-none justify-center p-0'

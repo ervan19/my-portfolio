@@ -18,7 +18,10 @@ const Home = () => {
       <Certificate />
       <div className='w-full'>
         <div className='w-full py-24 dark:bg-white/5 bg-dark/5 px-4 md:px-24'>
-          <div className='w-full flex justify-center items-center flex-col  gap-6'>
+          <div
+            className='w-full flex justify-center items-center flex-col  gap-6'
+            data-aos='zoom-in'
+          >
             <h1 className='capitalize text-3xl md:text-5xl font-bold leading-normal dark:text-text text-dark'>
               Want to start a project?
             </h1>

@@ -2,7 +2,10 @@ import PropTypes from 'prop-types';
 
 const ExperienceCard = ({ company, role, date, jobDesc }) => {
   return (
-    <div className='w-full dark:text-text text-dark py-8 px-6 flex flex-col gap-3'>
+    <div
+      className='w-full dark:text-text text-dark py-8 px-6 flex flex-col gap-3'
+      data-aos='zoom-in'
+    >
       <div className='w-full flex flex-col md:flex-row justify-between items-start'>
         <div>
           <h2 className='text-lg font-bold text-dark dark:text-white'>

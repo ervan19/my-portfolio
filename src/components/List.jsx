@@ -5,7 +5,7 @@ const List = ({ data }) => {
     <ol className='list-decimal'>
       {data?.map((item, index) => {
         return (
-          <li key={index} className='py-1 relative left-4'>
+          <li key={index} className='py-1 relative left-4' data-aos='zoom-in'>
             {item}
           </li>
         );

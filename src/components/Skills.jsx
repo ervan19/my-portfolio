@@ -16,37 +16,37 @@ const Skills = () => {
         Skills & Tools
       </h1>
       <div className='w-full py-4 rounded-3xl flex justify-center items-center gap-12 flex-wrap dark:text-text text-dark'>
-        <div>
+        <div data-aos='zoom-in'>
           <FaReact size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <TbBrandNextjs size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <FaSass size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <SiTailwindcss size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <FaBootstrap size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <SiMui size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <SiWebpack size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <FaGitAlt size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <FaFigma size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <SiRedux size={64} />
         </div>
-        <div>
+        <div data-aos='zoom-in'>
           <FaDocker size={64} />
         </div>
       </div>

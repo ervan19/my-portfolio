@@ -8,7 +8,10 @@ const Projects = () => {
 
   return (
     <div className='w-full min-h-screen px-4 md:px-24 flex flex-col justify-start items-start gap-4 md:gap-14'>
-      <div className='w-full flex flex-col justify-center items-center gap-3'>
+      <div
+        className='w-full flex flex-col justify-center items-center gap-3'
+        data-aos='zoom-in'
+      >
         <h1 className='text-4xl text-primary font-bold place-self-center'>
           Selected Projects
         </h1>
