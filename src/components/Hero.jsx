@@ -24,7 +24,11 @@ const Hero = () => {
             Frontend Developer for almost 3 years
           </p>
         </div>
-        <a href={ervanResume} className='btn w-fit gap-2 mx-auto md:mx-0'>
+        <a
+          href={ervanResume}
+          className='btn w-fit gap-2 mx-auto md:mx-0'
+          download
+        >
           Resume <HiDownload size={20} />
         </a>
       </div>
