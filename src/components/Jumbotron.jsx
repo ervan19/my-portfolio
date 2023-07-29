@@ -11,7 +11,7 @@ const Jumbotron = () => {
           <h1 className='capitalize text-3xl md:text-5xl font-bold w-full md:w-8/12 mx-auto text-center leading-normal dark:text-text text-dark'>
             Realize your dream ideas through an application
           </h1>
-          <Link className='btn' to='/'>
+          <Link className='btn' to='mailto:ervanmuhammada454@gmail.com'>
             Hire Me🖐️
           </Link>
         </div>

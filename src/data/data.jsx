@@ -1,22 +1,22 @@
 const dataSocialMediaLink = [
   {
-    path: '/',
+    path: 'mailto:ervanmuhammada454@gmail.com',
     name: 'Email',
   },
   {
-    path: '/',
+    path: 'linkedin.com/in/ervan-muhammad-adrian-9173a6213/',
     name: 'LinkedIn',
   },
   {
-    path: '/',
+    path: '/https://www.instagram.com/ervanmuhammad_/',
     name: 'Instagram',
   },
   {
-    path: '/',
+    path: '/https://github.com/ervan19',
     name: 'Github',
   },
   {
-    path: '/',
+    path: '/https://dribbble.com/Ervann19',
     name: 'Dribbble',
   },
 ];

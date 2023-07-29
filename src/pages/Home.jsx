@@ -25,7 +25,7 @@ const Home = () => {
             <h1 className='capitalize text-3xl md:text-5xl font-bold leading-normal dark:text-text text-dark'>
               Want to start a project?
             </h1>
-            <Link className='btn w-fit' to='/'>
+            <Link className='btn w-fit' to='mailto:ervanmuhammada454@gmail.com'>
               Hire Me 🖐️
             </Link>
           </div>
