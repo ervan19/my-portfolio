@@ -199,6 +199,7 @@ export const projectsFE = [
     role: 'Frontend Developer',
     description:
       'HolaNotes is a personal notes application. Some of the features contained in this application are login/signup, users can see a list of active and archived notes, users can also create and delete notes. In addition, there are features to change the theme and language contained in this application',
+    client: 'Submission React Fundamental Dicoding',
     year: '2022',
     goals: [
       'Users can create, delete and archive notes',
