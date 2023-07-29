@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  @apply bg-white dark:bg-dark overflow-x-hidden scroll-smooth;
+}
+
+.link-sosial-media {
+  @apply hover:text-secondary transition-all duration-200;
+}
+
+.icon-color {
+  @apply text-dark dark:text-white;
+}
+
+.btn,
+.btn-outline {
+  @apply hover:opacity-90 transition-all duration-300;
+}
+.btn {
+  @apply text-white font-semibold px-8 rounded-full flex justify-center items-center py-2 bg-primary;
+}
+
+.btn-icon {
+  @apply flex items-center gap-2;
+}
+
+.btn-outline {
+  @apply text-primary font-semibold px-8 rounded-full flex justify-center items-center py-2 bg-transparent border-2 border-primary;
+}
+
+.project-tab {
+  @apply relative px-3 py-2 text-lg font-semibold text-dark dark:text-text;
+}
+
+.project-tab::after {
+  @apply bg-secondary;
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  transition: all 0.3s ease-in-out;
+}
+
+.project-tab:hover.project-tab::after {
+  @apply bg-secondary;
+  width: 100%;
+}
+
+.project-tab.active {
+  @apply text-secondary;
+}
+
+.project-tab.active.project-tab::after {
+  width: 100%;
+}
