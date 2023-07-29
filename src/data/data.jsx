@@ -4,19 +4,19 @@ const dataSocialMediaLink = [
     name: 'Email',
   },
   {
-    path: 'linkedin.com/in/ervan-muhammad-adrian-9173a6213/',
+    path: 'https://www.linkedin.com/in/ervan-muhammad-adrian-9173a6213/',
     name: 'LinkedIn',
   },
   {
-    path: '/https://www.instagram.com/ervanmuhammad_/',
+    path: 'https://www.instagram.com/ervanmuhammad_/',
     name: 'Instagram',
   },
   {
-    path: '/https://github.com/ervan19',
+    path: 'https://github.com/ervan19',
     name: 'Github',
   },
   {
-    path: '/https://dribbble.com/Ervann19',
+    path: 'https://dribbble.com/Ervann19',
     name: 'Dribbble',
   },
 ];
