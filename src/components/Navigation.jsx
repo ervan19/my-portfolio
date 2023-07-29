@@ -34,7 +34,7 @@ const Navigation = () => {
                 key={data.name}
                 className='link-sosial-media flex justify-center items-center gap-1'
               >
-                <Link to={data.path}>{data.name}</Link>
+                <a href={data.path}>{data.name}</a>
                 <p className=''>/</p>
               </li>
             );

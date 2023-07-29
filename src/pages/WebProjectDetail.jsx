@@ -35,8 +35,8 @@ const WebProjectDetail = () => {
           >
             {dataProject.name}
           </h1>
-          <Link
-            to={dataProject.link}
+          <a
+            href={dataProject.link}
             className={
               dataProject.role === 'UI/UX Designer'
                 ? 'hidden'
@@ -46,7 +46,7 @@ const WebProjectDetail = () => {
           >
             Visit Site
             <HiGlobeAlt size={20} strokeWidth={0.01} />
-          </Link>
+          </a>
         </div>
         <div className='md:w-8/12 w-full mx-auto flex justify-center items-center '>
           <img
