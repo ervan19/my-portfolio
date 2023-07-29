@@ -14,7 +14,7 @@ const Hero = () => {
             </span>
           </h3>
           <h1 className='lg:text-4xl text-3xl font-bold leading-relaxed text-dark dark:text-white py-3'>
-            Frontend Developer
+            {'<Frontend Developer/>'}
           </h1>
           <p className='w-full md:w-10/12 dark:text-text text-dark text-base'>
             I am a student at the Indonesian Computer University majoring in
