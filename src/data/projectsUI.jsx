@@ -96,7 +96,7 @@ export const projectsUI = [
     link: '',
     role: 'UI/UX Designer',
     description:
-      'WWS is an administrator application for managing defense equipment resources. This application is made with Microfrontend architecture.',
+      'WMS is an administrator application for managing defense equipment resources. This application is made with Microfrontend architecture.',
     client: 'Internship Project at PT Len Industri (Persero)',
     year: '2023',
     goals: [
