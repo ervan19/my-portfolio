@@ -154,11 +154,11 @@ export const projectsFE = [
   },
   {
     id: "P042023",
-    name: "C2 Next Generation",
+    name: "C2 Maps System",
     link: "",
     role: "Frontend Developer",
     description:
-      "Dausagi is a garbage bank platform that I created with my team. This project is the final assignment in the Studi Independen Bersertifikat Kampus Mereka program. We created this web application with the hope of reducing waste where it shouldn't be. This application can be used by people who want to store waste and get feedback/benefits from the waste exchange process provided.",
+      "C2 Maps is a is a system map application for the needs of the defense industry. This application is a prototype as an internship assignment at PT Len Industri Persero",
     client: "Internship Project at PT Len Industri (Persero)",
     year: "2023",
     goals: [
