@@ -113,7 +113,7 @@ export const projectsFE = [
   {
     id: "P032023",
     name: "DevForum",
-    link: "",
+    link: "https://devfor.vercel.app/",
     role: "Frontend Developer",
     description:
       "DevForum is a web application for asking questions about anything, especially about technology. The features contained in this application are that users can create a thread, do like & unlike threads/comments, make comments on threads and filter threads that you want to appear on the page.",
@@ -133,11 +133,12 @@ export const projectsFE = [
     scope: [
       "Login/Signup Page",
       "Home Page",
+      "Filtered Threads",
       "Thread Detail Page",
-      "Like & Unlike Feature",
       "Leaderboards Page",
+      "Like & Unlike Feature",
       "Discuss & Comment Feature",
-      "Implement State Managament with Redux",
+      "Implement State Management with Redux",
     ],
     tech: [
       "React Vite",
@@ -147,6 +148,7 @@ export const projectsFE = [
       "Restful API",
       "Vitest",
       "Cypress",
+      "CD/CD",
     ],
     image: DevForumCover,
     logo: DevForumLogo,
