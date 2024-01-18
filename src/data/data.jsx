@@ -76,29 +76,29 @@ const dataExperience = [
   },
   {
     id: 3,
-    company: "Kojek",
-    role: "Frontend Developer",
-    date: "Aug - Dec 2023",
+    company: "Universitas Komputer Indonesia",
+    role: "Software Enginner - Lecturer Research Assistant",
+    date: "Jun 2022 - Present",
     jobDesc: [
       {
         jobId: "job-1",
-        job: "Create an Admin Panel and Point of Sales (POS) system that is integrated with mobile applications",
+        job: "Designing the UI/UX appearance of the application",
       },
       {
         jobId: "job-2",
-        job: "Create application testing documentation using the Black Box method",
+        job: "Testing and debugging web applications across different browsers and devices",
       },
       {
         jobId: "job-3",
-        job: "Design and optimize application performance by implementing Progressive Web App (PWA)",
+        job: "Responsible for designing frontend architecture, managing and testing applications in the Frontend section",
       },
       {
         jobId: "job-4",
-        job: "Collaborate with Backend Developers in integrating data in applications with React JS",
+        job: "Responsible for conducting information system analysis for each application creation",
       },
       {
         jobId: "job-5",
-        job: "Organizing code changes to applications using Git/Github",
+        job: "Collaborate with Backend Developer for integrating data into applications",
       },
     ],
   },

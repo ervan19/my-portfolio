@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="flex flex-col gap-8 w-full lg:w-10/12" data-aos="zoom-in">
         <div className="w-full md:w-auto">
           <h3 className="text-lg">
-            Halo, I'm {""}
+            Hello, I'm {""}
             <span className="text-primary font-semibold">
               Ervan Muhammad Adrian 🖐️
             </span>
